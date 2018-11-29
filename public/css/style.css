@@ -693,6 +693,16 @@ form#commentform textarea {
 	background: #000;
 }
 
+.item-thumbs .caption{
+	background: #0201FF;
+	text-align:center;
+	font-family:'Open Sans', Arial, sans-serif;
+	font-size:14px;
+	font-weight:300;
+	line-height:1.6em;
+	color:#fff;
+}
+
 .item-thumbs .hover-wrap .overlay-img-thumb {
 	position: absolute;
 	border-radius: 60px;
@@ -1273,6 +1283,7 @@ ul.meta-post li a{
 	width:60px;
 	height:60px;
 }
+
 .filter-list{
 	margin-top:20px;
 }
